@@ -84,7 +84,7 @@ try (Session session = sessionFactory.openSession()) {
         }
 ```
 
-##Configuración
+## Configuración
 
 ```
 <?xml version="1.0" encoding="UTF-8"?>
